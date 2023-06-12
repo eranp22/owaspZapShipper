@@ -20,6 +20,8 @@ pip install -r requirements.txt
 ## Configuration
 ZapShipper requires a configuration file (config.yaml) to specify the Logz.io URL, Logz.io token, and parent folder path.
 
+The configurtion included these following stractures:
+
 **logzio**
 | Parameter Name | Description | Required/Optional | Default |
 | --- | --- | --- | --- |
