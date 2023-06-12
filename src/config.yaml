@@ -1,0 +1,4 @@
+logzio:
+  url: "https://listener.logz.io:8071"
+  token: "<Logz.io_Token>"
+parentFolder: "<Path_To_Main_Websites_Folder>"
